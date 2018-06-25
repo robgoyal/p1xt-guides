@@ -6,18 +6,23 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 ## Tier 1 - getting started
 
 * [ ] Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
+* [ ] Project: Python Startup Script
 * [ ] Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
 * [ ] Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
 * [ ] Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
+* [ ] Project: Tribute Page from FCC
+* [ ] Project: Sami and Bong Pheaps Baby Shower Website
 * [ ] Project: Clone [this](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2) online resume template
 * [ ] Course: [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
 * [ ] Book: [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)
 * [ ] Book: [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)
 * [ ] Book: [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
+* [ ] Project: Survey Form
 * [ ] Course: [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)
-* [ ] Project: Portfolio from the frontend section of FCC
+* [ ] Project: Product Landing Page
 * [ ] Article: Read [Project Specification Documents](http://www.pixelearth.net/pages/project-specification) and get in the habit of including every bit of information it details that makes sense for a project in the README.md or other supporting documentation for your projects
 * [ ] Course: [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x)
+* [ ] Project: Technical Documentation Page
 * [ ] Book: [Setting Up ES6](https://leanpub.com/setting-up-es6/read)
 * [ ] Book: [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix)
 * [ ] Course: [Getting Sassy with CSS](http://www.sassshop.com/#/)
@@ -31,6 +36,7 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 * [ ] Book: Hacking: The Art of Exploitation
 * [ ] Course: [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
 * [ ] Course: [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
+* [ ] Project: Create Personal Blog from scratch (X-Project with Personal Portfolio Project from FCC)
 * [ ] Course: [Software Construction: Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x)
 * [ ] Course: [Software Construction: Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x)
 * [ ] Course: [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)

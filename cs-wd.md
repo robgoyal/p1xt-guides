@@ -5,7 +5,6 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 
 ## Tier 1 - getting started
 
-* [ ] Book: Fluent Python
 * [ ] Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
 * [ ] Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
 * [ ] Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
@@ -23,9 +22,13 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 * [ ] Book: [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix)
 * [ ] Course: [Getting Sassy with CSS](http://www.sassshop.com/#/)
 * [ ] Project: Build an online Towers of Hanoi solver that accepts a tower height between 5 and 10, and then displays a graphical (animated) solution, iteratively moving each piece until the puzzle is solved
+* [ ] Book: Cracking the Coding Interview
+* [ ] Course: Colt Steele's Web Developer Bootcamp
 
 ## Tier 2 - develop more expertise
 
+* [ ] Course: Learning How to Learn
+* [ ] Book: Hacking: The Art of Exploitation
 * [ ] Course: [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
 * [ ] Course: [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
 * [ ] Course: [Software Construction: Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x)
@@ -37,6 +40,7 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 * [ ] Project: Complete all Classic Puzzles - Easy on [CodinGame](https://www.codingame.com/) in JavaScript
 * [ ] Course - [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) on edX or [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University (or both, your choice)
 * [ ] The FCC Backend Certification - all projects, ignore the tutorials and just read the official docs if you want.
+* [ ] Book: Fluent Python
 * [ ] Course: [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
 * [ ] Book: [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [ ] Project: Clone [this](https://blackrockdigital.github.io/startbootstrap-creative/) landing page

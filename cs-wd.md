@@ -28,7 +28,7 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 * [ ] Course: [Getting Sassy with CSS](http://www.sassshop.com/#/)
 * [ ] Project: Build an online Towers of Hanoi solver that accepts a tower height between 5 and 10, and then displays a graphical (animated) solution, iteratively moving each piece until the puzzle is solved
 * [ ] Book: Cracking the Coding Interview
-* [ ] Course: Colt Steele's Web Developer Bootcamp
+* [ ] Course: Colt Steele's Web Developer Bootcamp or The Complete Web Developer in 2018: Zero to Mastery
 
 ## Tier 2 - develop more expertise
 
